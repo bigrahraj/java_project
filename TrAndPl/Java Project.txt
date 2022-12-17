@@ -1,0 +1,8 @@
+user name=tnp
+pass=Ashutosh
+table name=users
+table name=Hr
+table name=jobs
+table name=question
+table name=participants
+table name=
